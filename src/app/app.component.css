@@ -1,0 +1,18 @@
+h1 {
+    font-size: 150%;
+    }
+
+.noun {
+    float: left;
+    padding-left: 350px;
+}
+
+.adverb {
+    float: right;
+    padding-right: 350px;
+}
+
+.text { 
+    text-align: center;
+    padding-top: 110px
+}
